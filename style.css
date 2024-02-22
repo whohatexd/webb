@@ -1,0 +1,14 @@
+table, td, th{
+    border: solid 1px black;
+
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+    padding: 0.5rem 1rem;
+}
+.top1FOrtnitePlayer{
+    background-color:rgb(48, 84, 180);;
+    color: white;
+}
